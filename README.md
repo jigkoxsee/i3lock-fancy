@@ -9,6 +9,10 @@ Depends:
 * scrot
 * Liberation Fonts
 
+Todo:
+* [ ] improve speed
+* [ ] suport multimonitor
+
 Screenshot:
 
 ![lockscreen](https://raw.githubusercontent.com/meskarune/i3lock-fancy/master/screenshot.png)
